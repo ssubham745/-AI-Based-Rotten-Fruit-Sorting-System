@@ -1,0 +1,7 @@
+ultralytics       # YOLOv8
+opencv-python     # Camera & image processing
+torch             # PyTorch for CNN
+torchvision       # CNN model utilities
+pyserial          # Arduino serial communication
+numpy
+Pillow
