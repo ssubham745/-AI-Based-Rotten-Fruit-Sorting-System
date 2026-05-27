@@ -1,7 +1,3 @@
-# detect_fruit.py - SIMPLE GAP-BASED RESET VERSION
-# Logic: fruit disappears for 1.5s → reset → next fruit is new
-# No complex tracking, no centroid math, no bugs
-
 import cv2
 import torch
 import serial
